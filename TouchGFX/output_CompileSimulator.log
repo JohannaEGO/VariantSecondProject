@@ -1,2 +1,6 @@
 Converting images
+Compiling generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp
+Compiling generated/images/src/BitmapDatabase.cpp
+Compiling generated/images/src/b5.cpp
+Compiling simulator/main.cpp
 Linking build/bin/simulator.exe
