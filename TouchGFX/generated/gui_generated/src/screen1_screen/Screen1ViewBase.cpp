@@ -9,7 +9,7 @@ Screen1ViewBase::Screen1ViewBase() :
     buttonCallback(this, &Screen1ViewBase::buttonCallbackHandler)
 {
     box1.setPosition(0, 0, 800, 480);
-    box1.setColor(touchgfx::Color::getColorFrom24BitRGB(139, 240, 214));
+    box1.setColor(touchgfx::Color::getColorFrom24BitRGB(139, 12, 214));
 
     image.setXY(196, 172);
     image.setBitmap(Bitmap(BITMAP_B5_ID));
