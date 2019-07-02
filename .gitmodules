@@ -1,4 +1,4 @@
 [submodule "TouchGFX/assets"]
 	path = TouchGFX/assets
-	url = https://github.com/JohannaEGO/assetsVariantTwo.git
-	branch = variant_a
+	url = https://github.com/JohannaEGO/assets.git
+	branch = AssetsCustomerA
