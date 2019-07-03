@@ -6,7 +6,7 @@
 #include <touchgfx/hal/Types.hpp>
 #include <touchgfx/Bitmap.hpp>
 
-const uint16_t BITMAP_B5_ID = 0; // Size: 158x89 pixels
+const uint16_t BITMAP_B5_ID = 0; // Size: 158x95 pixels
 const uint16_t BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_ID = 1; // Size: 170x60 pixels
 const uint16_t BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_PRESSED_ID = 2; // Size: 170x60 pixels
 
