@@ -1219,6 +1219,9 @@
     <group>
       <name>texts</name>
       <file>
+        <name>$PROJ_DIR$\..\TouchGFX\generated\texts\src\LanguageGb.cpp</name>
+      </file>
+      <file>
         <name>$PROJ_DIR$\..\TouchGFX\generated\texts\src\Texts.cpp</name>
       </file>
       <file>
