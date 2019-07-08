@@ -53,7 +53,13 @@ build/MINGW32_NT-6.2/gui/src/screen1_screen/Screen1View.o: \
  ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/TypedText.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/Texts.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/Color.hpp
+ ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/containers/SlideMenu.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/mixins/MoveAnimator.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/EasingEquations.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/widgets/ToggleButton.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/Color.hpp \
+ generated/texts/include/texts/TextKeysAndLanguages.hpp \
+ generated/images/include/BitmapDatabase.hpp
 
 gui/include/gui/screen1_screen/Screen1View.hpp:
 
@@ -161,4 +167,16 @@ gui/include/gui/model/ModelListener.hpp:
 
 ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:
 
+../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/containers/SlideMenu.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/mixins/MoveAnimator.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/EasingEquations.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/widgets/ToggleButton.hpp:
+
 ../Middlewares/ST/TouchGFX/touchgfx//framework/include/touchgfx/Color.hpp:
+
+generated/texts/include/texts/TextKeysAndLanguages.hpp:
+
+generated/images/include/BitmapDatabase.hpp:

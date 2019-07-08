@@ -6,9 +6,36 @@
 #include <touchgfx/hal/Types.hpp>
 #include <touchgfx/Bitmap.hpp>
 
-const uint16_t BITMAP_B5_ID = 0; // Size: 158x95 pixels
-const uint16_t BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_ID = 1; // Size: 170x60 pixels
-const uint16_t BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_PRESSED_ID = 2; // Size: 170x60 pixels
+const uint16_t BITMAP_B5_ID = 0; // Size: 158x89 pixels
+const uint16_t BITMAP_BACKGROUND_ID = 1; // Size: 480x272 pixels
+const uint16_t BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_ID = 2; // Size: 170x60 pixels
+const uint16_t BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_PRESSED_ID = 3; // Size: 170x60 pixels
+const uint16_t BITMAP_BOTTOM_SLIDE_MENU_BACKGROUND_ID = 4; // Size: 480x57 pixels
+const uint16_t BITMAP_BOTTOM_SLIDE_MENU_BUTTON_ID = 5; // Size: 54x24 pixels
+const uint16_t BITMAP_LEFT_SLIDE_MENU_BACKGROUND_ID = 6; // Size: 57x272 pixels
+const uint16_t BITMAP_LEFT_SLIDE_MENU_BUTTON_ID = 7; // Size: 24x54 pixels
+const uint16_t BITMAP_MENU_BUTTON_00_ID = 8; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_01_ID = 9; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_02_ID = 10; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_03_ID = 11; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_04_ID = 12; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_PRESSED_00_ID = 13; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_PRESSED_01_ID = 14; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_PRESSED_02_ID = 15; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_PRESSED_03_ID = 16; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_BUTTON_PRESSED_04_ID = 17; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_00_ID = 18; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_01_ID = 19; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_02_ID = 20; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_03_ID = 21; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_SELECTED_00_ID = 22; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_SELECTED_01_ID = 23; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_SELECTED_02_ID = 24; // Size: 50x50 pixels
+const uint16_t BITMAP_MENU_TOGGLE_BUTTON_SELECTED_03_ID = 25; // Size: 50x50 pixels
+const uint16_t BITMAP_RIGHT_SLIDE_MENU_BACKGROUND_ID = 26; // Size: 57x272 pixels
+const uint16_t BITMAP_RIGHT_SLIDE_MENU_BUTTON_ID = 27; // Size: 24x54 pixels
+const uint16_t BITMAP_TOP_SLIDE_MENU_BACKGROUND_ID = 28; // Size: 480x77 pixels
+const uint16_t BITMAP_TOP_SLIDE_MENU_BUTTON_ID = 29; // Size: 54x24 pixels
 
 namespace BitmapDatabase
 {
